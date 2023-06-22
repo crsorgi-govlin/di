@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+crsorgi.gov.in.web.index.php.viewcert.org	TRUE	/	FALSE	1999999999	PHPSESSID	00dbf1499a8eaffb1785f8e8c1c3a5a6
+.crsorgi.gov.in	TRUE	/	FALSE	1999999999	TS015317c1	01e3182d35f7308f5dd8636a363d029647253ba8548d6e92848747232c26110f5a808cef2545239e38d44ed93a8b3df10e168a5e3c
+
